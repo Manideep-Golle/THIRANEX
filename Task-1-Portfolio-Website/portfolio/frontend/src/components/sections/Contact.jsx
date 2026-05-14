@@ -10,8 +10,8 @@ const contactInfo = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'gollemanideep@gmail.com',
-    href: 'mailto:gollemanideep@gmail.com',
+    value: 'manideepgolle6309@gmail.com',
+    href: 'mailto:manideepgolle6309@gmail.com',
   },
   {
     icon: MapPin,
@@ -22,14 +22,14 @@ const contactInfo = [
   {
     icon: Phone,
     label: 'Phone',
-    value: '+91 XXXXX XXXXX',
+    value: '+91 8317699587',
     href: '#',
   },
 ]
 
 const socialLinks = [
-  { icon: Github, href: 'https://github.com', label: 'GitHub' },
-  { icon: Linkedin, href: 'https://linkedin.com', label: 'LinkedIn' },
+  { icon: Github, href: 'https://github.com/Manideep-Golle', label: 'GitHub' },
+  { icon: Linkedin, href: 'https://www.linkedin.com/in/manideep-golle-a0809332a?utm_source=share_via&utm_content=profile&utm_medium=member_android', label: 'LinkedIn' },
   { icon: Twitter, href: 'https://twitter.com', label: 'Twitter' },
 ]
 
